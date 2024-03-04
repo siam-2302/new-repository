@@ -2,7 +2,7 @@
 
 by: BUSADRE CHRISTIAN SIAM B.
 
-[My Streamlit APP(new-repository-czmlosou21l.streamlit.app)]
+[My Streamlit APP(https://new-repository-czmlosou21l.streamlit.app/)]
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
